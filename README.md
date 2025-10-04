@@ -120,5 +120,4 @@ Once started, Streamlit will give a local URL, usually:
 
 ```
 
-This version is optimized for GitHub, with appropriate formatting, headings, and code blocks. Simply copy and paste it into your GitHub repository's README file.
-```
+
