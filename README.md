@@ -1,5 +1,4 @@
 
-```markdown
 # 🧠 Sentiment Analysis Project
 
 This project demonstrates **Sentiment Analysis** using two approaches:
@@ -134,5 +133,3 @@ Once started, Streamlit will give a local URL, usually:
 ---
 
 
-Would you like me to include a **preview section** (like screenshots placeholders or example output charts) in the README? That helps make it more appealing for GitHub.
-```
